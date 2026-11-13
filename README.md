@@ -58,8 +58,8 @@ University (April 2023), supervised by **Prof. Dr. Md. Golam Moazzam**.
 
 Group 05 — CSE-358, Jahangirnagar University:
 
+- **Nurun Nahar Fiha**
 - Serajum Monira
 - Shreya Nag Riya
 - Sayeda Pervin Monika
-- **Nurun Nahar Fiha**
 - Ajoy Sarker
